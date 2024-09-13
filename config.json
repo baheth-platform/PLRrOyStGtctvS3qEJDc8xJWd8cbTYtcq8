@@ -1,0 +1,59 @@
+{
+  "user_id": 1,
+  "playlist_id": 75,
+  "source": "youtube",
+  "producer": "wit",
+  "provider": "علي حمدي علي فاضل",
+  "tag_list": "السيرة النبوية",
+  "hidden": false,
+  "media": [
+    {
+      "title": "السيرة النبوية العهد المكي | المحاضرة الأولى - م. أيمن عبد الرحيم",
+      "description": "السيرة النبوية العهد المكي | المحاضرة الأولى - م. أيمن عبد الرحيم",
+      "duration": "01:49:56",
+      "link": "https://www.youtube.com/watch?v=OdemkEqkK20",
+      "transcript_txt": "OdemkEqkK20.txt",
+      "transcript_srt": "OdemkEqkK20.srt"
+    },
+    {
+      "title": "السيرة النبوية العهد المكي | المحاضرة الثانية - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:06:23",
+      "link": "https://www.youtube.com/watch?v=WC-M76ThVn4",
+      "transcript_txt": "WC-M76ThVn4.txt",
+      "transcript_srt": "WC-M76ThVn4.srt"
+    },
+    {
+      "title": "السيرة النبوية العهد المكي | المحاضرة الثالثة - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "02:06:44",
+      "link": "https://www.youtube.com/watch?v=NxFX4hgNgo4",
+      "transcript_txt": "NxFX4hgNgo4.txt",
+      "transcript_srt": "NxFX4hgNgo4.srt"
+    },
+    {
+      "title": "السيرة النبوية العهد المكي | المحاضرة الرابعة - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:32:20",
+      "link": "https://www.youtube.com/watch?v=1t__H9Oh6Q4",
+      "transcript_txt": "1t__H9Oh6Q4.txt",
+      "transcript_srt": "1t__H9Oh6Q4.srt"
+    },
+    {
+      "title": "السيرة النبوية العهد المكي | المحاضرة الخامسة - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:41:53",
+      "link": "https://www.youtube.com/watch?v=dpovcv6GwXk",
+      "transcript_txt": "dpovcv6GwXk.txt",
+      "transcript_srt": "dpovcv6GwXk.srt"
+    },
+    {
+      "title": "السيرة النبوية العهد المكي | المحاضرة السادسة - م. أيمن عبد الرحيم",
+      "description": "",
+      "duration": "01:43:15",
+      "link": "https://www.youtube.com/watch?v=rargY2S_ACI",
+      "transcript_txt": "rargY2S_ACI.txt",
+      "transcript_srt": "rargY2S_ACI.srt"
+    }
+  ]
+}
